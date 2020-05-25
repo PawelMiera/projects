@@ -1,4 +1,4 @@
-# projects
+# Smaller projects
 
 Wrzucam kody do kilku mniejszych projektów:
 
