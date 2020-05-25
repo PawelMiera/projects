@@ -2,7 +2,7 @@
 
 Wrzucam kody do kilku mniejszych projektów:
 
-- dron sterowany padem od X-Boxa
+- dron sterowany padem od Xbox'a
 
 ![](photos/drone1.jpg)
 ![](photos/drone2.jpg)
